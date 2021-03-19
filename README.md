@@ -5,7 +5,7 @@ http://www.coin.ruento.com
 
 Copyright (c) 2009-2021 Bitcoin Developers
 Copyright (c) 2011-2021 Litecoin Developers
-Copyright (c) 2011-2014 RuentoCoin Developers
+Copyright (c) 2021 RuentoCoin Developers
 
 What is RuentoCoin?
 ----------------
