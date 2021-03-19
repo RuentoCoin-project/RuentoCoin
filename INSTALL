@@ -1,0 +1,9 @@
+Building RuentoCoin
+
+See doc/readme-qt.rst for instructions on building RuentoCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RuentoCoin.
+
+See doc/build-*.txt for instructions on building RuentoCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RuentoCoin.
